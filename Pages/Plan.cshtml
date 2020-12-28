@@ -1,0 +1,87 @@
+﻿@page
+@model PlanModel
+@{
+    Layout = "_Layout";
+    int asd;
+    if (ViewData["nr"] != null)
+    {
+        asd = int.Parse(ViewData["nr"].ToString());
+    }
+    else
+    {
+        asd = 0;
+    }
+}
+<html>
+<head>
+</head>
+<body>
+    <h3>Punkty karne: @Model.punkty</h3>
+    <form method="post" align="center">
+        <select name="nr" onchange="this.form.submit()">
+            @for (int i = 0; i < Model.nauczyciele.Count(); i++)
+            {
+                if (i == asd)
+                {
+            <option value="@i" selected="selected">@Model.nauczyciele[i].imie @Model.nauczyciele[i].nazwisko</option>
+                }
+                else
+                {
+        <option value="@i">@Model.nauczyciele[i].imie @Model.nauczyciele[i].nazwisko</option>
+                }
+
+            }
+        </select>
+    </form>
+
+    <table align="center">
+        <thead>
+
+            <tr>
+                <th>
+
+                </th>
+                <th>
+                    Poniedzialek
+                </th>
+                <th>
+                    Wtorek
+                </th>
+                <th>
+                    Sroda
+                </th>
+                <th>
+                    Czwartek
+                </th>
+                <th>
+                    Piatek
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int j = 0; j < 14; j++)
+            {
+                <tr>
+                    <td class="godziny">
+                        @Model.godziny[j]
+                    </td>
+                    @for (int i = 0; i < 5; i++)
+                    {
+                        if (Model.nauczyciele[asd].plan[i, j] != null)
+                        {
+                            <td class="zajety">
+                                @Model.nauczyciele[asd].plan[i, j].p.nazwa<br>
+                                @Model.nauczyciele[asd].plan[i, j].s.numer
+                            </td>
+                        }
+                        else
+                        {
+                            <td ></td>
+                        }
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

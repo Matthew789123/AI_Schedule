@@ -1,0 +1,50 @@
+﻿@model Projekt.Models.BaseModel
+<html>
+<head>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+
+            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                <ul class="navbar-nav flex-grow-1">
+
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Index">Nowy Plan</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Plan">Nauczyciele</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-page="/PlanSal">Sale</a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <header>
+        <form asp-page="OptymalizacjaPlanu" asp-page-handler="Handler" method="post" align="center">
+            <input type="hidden" asp-for="@Model.nr" value="@ViewBag.nr" />
+            <input type="hidden" asp-for="@Model.returnUrl" value="@ViewBag.returnUrl" />
+            Liczba iteracji:
+            <input asp-for="@Model.iteracje" value="" />
+            <input type="submit" value="Wykonaj" />
+        </form>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+    </footer>
+</body>
+</html>

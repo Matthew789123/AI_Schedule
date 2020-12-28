@@ -1,0 +1,26 @@
+10
+Przedmiot1
+Przedmiot2
+Przedmiot3
+Przedmiot4
+Przedmiot5
+Przedmiot6
+Przedmiot7
+Przedmiot8
+Przedmiot9
+Przedmiot10
+5
+Imie1 Nazwisko1 Przedmiot1 7 Przedmiot2 8 Przedmiot4 5
+Imie2 Nazwisko2 Przedmiot5 8 Przedmiot1 5
+Imie3 Nazwisko3 Przedmiot6 5 Przedmiot7 6
+Imie4 Nazwisko4 Przedmiot8 6 Przedmiot9 7
+Imie5 Nazwisko5 Przedmiot10 8
+8
+1 Przedmiot1 Przedmiot2 Przedmiot3 Przedmiot4
+2 Przedmiot1 Przedmiot2 Przedmiot3 Przedmiot4
+3 Przedmiot1 Przedmiot2 Przedmiot3 Przedmiot4
+4 Przedmiot1 Przedmiot2 Przedmiot3 Przedmiot4
+5 Przedmiot1 Przedmiot2 Przedmiot3 Przedmiot4
+6 Przedmiot5 Przedmiot6 Przedmiot8 Przedmiot9
+7 Przedmiot5 Przedmiot6 Przedmiot7 Przedmiot9
+8 Przedmiot10

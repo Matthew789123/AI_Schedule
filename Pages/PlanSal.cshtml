@@ -1,0 +1,93 @@
+﻿@page
+@model PlanSalModel
+@{
+    Layout = "_Layout";
+    int asd;
+    if (ViewData["nr"] != null)
+    {
+        asd = int.Parse(ViewData["nr"].ToString());
+    }
+    else
+    {
+        asd = 0;
+    }
+}
+<html>
+<head>
+</head>
+<body>
+    <h3>Punkty karne: @Model.punkty</h3>
+    <form method="Post" align="center">
+        Numer Sali:
+        <select name="nr" onchange="this.form.submit()">
+            @for (int i = 0; i < Model.sale.Count(); i++)
+            {
+                if (i == asd)
+                {
+                    <option value="@i" selected="selected">@Model.sale[i].numer</option>
+                }
+                else
+                {
+                    <option value="@i">@Model.sale[i].numer</option>
+                }
+
+            }
+        </select>
+    </form>
+
+    <table align="center">
+        <thead>
+
+            <tr>
+                <th>
+                </th>
+
+                <th>
+                    Poniedzialek
+                </th>
+
+                <th>
+                    Wtorek
+                </th>
+
+                <th>
+                    Sroda
+                </th>
+
+                <th>
+                    Czwartek
+                </th>
+
+                <th>
+                    Piatek
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int j = 0; j < 14; j++)
+            {
+                <tr>
+                    <td class="godziny">
+                        @Model.godziny[j]
+                    </td>
+                    @for (int i = 0; i < 5; i++)
+                    {
+                        if (Model.sale[asd].zajetosc[i, j] != false)
+                        {
+                            <td class="zajety">
+                                @Model.sale[asd].n[i, j].p.nazwa<br>
+                                @Model.sale[asd].n[i, j].n.imie
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                            </td>
+                        }
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

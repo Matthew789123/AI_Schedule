@@ -1,0 +1,544 @@
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.exe
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.deps.json
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.json
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.dev.json
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.Views.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.csprojAssemblyReference.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfoInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.input.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.output.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.RazorCoreGenerate.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.genruntimeconfig.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.csproj.CopyComplete
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Razor\Pages\Plan.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt\obj\Debug\netcoreapp3.1\Razor\Pages\PlanSal.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.exe
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.deps.json
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.json
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.dev.json
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.Views.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.csprojAssemblyReference.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfoInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.input.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.output.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.RazorCoreGenerate.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Razor\Pages\Plan.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Razor\Pages\PlanSal.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.csproj.CopyComplete
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Projekt.genruntimeconfig.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v2\obj\Debug\netcoreapp3.1\Razor\Pages\OptymalizacjaPlanu.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.exe
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.deps.json
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.json
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.dev.json
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.Views.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.csprojAssemblyReference.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfoInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.input.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.output.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.RazorCoreGenerate.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Razor\Pages\OptymalizacjaPlanu.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Razor\Pages\Plan.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Razor\Pages\PlanSal.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.csproj.CopyComplete
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt v3\obj\Debug\netcoreapp3.1\Projekt.genruntimeconfig.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.exe
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.deps.json
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.json
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.dev.json
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.Views.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.csprojAssemblyReference.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfoInputs.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.input.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.output.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.RazorCoreGenerate.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Razor\Pages\OptymalizacjaPlanu.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Razor\Pages\Plan.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Razor\Pages\PlanSal.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.csproj.CopyComplete
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Aye\Desktop\Projekt\Projekt Final v9999\obj\Debug\netcoreapp3.1\Projekt.genruntimeconfig.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.exe
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.deps.json
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.json
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.runtimeconfig.dev.json
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.Views.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.csprojAssemblyReference.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.RazorAssemblyInfo.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfoInputs.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.AssemblyInfo.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.input.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.TagHelpers.output.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.RazorCoreGenerate.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Razor\Pages\OptymalizacjaPlanu.cshtml.g.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Razor\Pages\Plan.cshtml.g.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Razor\Pages\PlanSal.cshtml.g.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.Views.pdb
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.csproj.CopyComplete
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.dll
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.pdb
+C:\Users\Mati_David\Desktop\Projekt FinalFantasy3000\obj\Debug\netcoreapp3.1\Projekt.genruntimeconfig.cache

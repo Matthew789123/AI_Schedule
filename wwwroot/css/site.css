@@ -1,0 +1,42 @@
+﻿table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    align-self: center;
+    table-layout: fixed;
+    width: 80%;
+
+}
+
+td {
+    width: 25%;
+    height: 80px
+}
+
+td.zajety {
+    background-color:aquamarine;
+}
+
+td.godziny{
+    background-color: darkorange;
+}
+
+tr {
+    height: 20px;
+}
+
+th {
+    text-align: center;
+    background-color: darkorange;
+    height: 50px;
+}
+
+form {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body{
+    display:inline-block;
+}
